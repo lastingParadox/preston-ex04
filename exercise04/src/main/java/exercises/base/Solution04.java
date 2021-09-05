@@ -3,7 +3,7 @@
  *  Copyright 2021 Zander Preston
  */
 
-package exercises;
+package exercises.base;
 
 /*
  Write an application
